@@ -56,7 +56,7 @@ export const TopNav: React.FC<TopNavProps> = ({
         <div>
           <div className="flex items-center gap-2">
             <span className="font-mono text-xs font-semibold tracking-widest text-sky-400 uppercase">
-              AERO-SPHERE
+              METEO-SPHERE
             </span>
             <span className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-mono font-medium bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">
               <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-ping mr-1" />

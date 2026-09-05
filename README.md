@@ -1,4 +1,4 @@
-# AERO-SPHERE // Planetary Weather Intelligence 🌍
+# METEO-SPHERE // Planetary Weather Intelligence 🌍
 
 An interactive, portfolio-grade 3D WebGL Weather Globe built with **Next.js 15+**, **Three.js**, custom **GLSL atmospheric shaders**, and live meteorological data from **Open-Meteo**.
 

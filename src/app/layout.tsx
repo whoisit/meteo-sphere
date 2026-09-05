@@ -21,7 +21,7 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: "AERO-SPHERE // 3D Interactive Weather Globe",
+  title: "METEO-SPHERE // 3D Interactive Planetary Weather Globe",
   description:
     "Interactive 3D Planetary Weather Intelligence with real-time wind streamlines, thermal heatmaps, atmospheric pressure isobars, cloud radar, and global telemetry.",
   keywords: [
